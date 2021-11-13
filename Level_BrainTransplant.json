@@ -1,0 +1,19 @@
+{
+  "$type": "ThunderRoad.LevelData, Assembly-CSharp",
+  "id": "Master",
+  "version": 3,
+  "modes": [
+    {
+      "name": "Default",
+      "modules": 
+	  [
+        {
+          "$type": "BrainTransplant.LoadModule, BrainTransplant",
+          "mod_name": "BrainTransplant",
+          "mod_version": "0.1",
+          "logger_level": "Detailed"
+        }
+      ]
+    }
+  ]
+}

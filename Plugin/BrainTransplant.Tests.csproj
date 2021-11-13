@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <AssemblyName>BrainTransplantTests</AssemblyName>
+    <RootNamespace>BrainTransplantTests</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="BrainTransplant.Tests.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+  </ItemGroup>
+
+</Project>
