@@ -5,8 +5,7 @@
   "modes": [
     {
       "name": "Default",
-      "modules": 
-	  [
+      "modules": [
         {
           "$type": "BrainTransplant.LoadModule, BrainTransplant",
           "mod_name": "BrainTransplant",
